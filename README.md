@@ -57,10 +57,19 @@ Single-file portfolio website. **HTML5 + CSS3 + Vanilla JS**, no build step. Dep
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588a?style=flat-square&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7ab55c?style=flat-square&logo=shopify&logoColor=white)
 
+## Recent Writing (Vietnamese)
+
+Practical guides on AI & web for Vietnamese SMEs — [leo-studio.pages.dev/blog](https://leo-studio.pages.dev/blog.html)
+
+- 📌 [Hướng dẫn toàn diện ứng dụng AI cho shop và SME Việt 2026](https://leo-studio.pages.dev/blog/huong-dan-ai-cho-sme-viet-2026.html) — 5 AI use cases, from chatbot to data analytics
+- 🤖 [Chatbot AI giúp shop bán lẻ tự động chăm sóc khách hàng 24/7](https://leo-studio.pages.dev/blog/ai-chatbot-shop-ban-le.html)
+- ⚙️ [Tự động hóa 3 việc tốn thời gian nhất của chủ shop online](https://leo-studio.pages.dev/blog/tu-dong-hoa-shop-online.html)
+- 💈 [Case study: Salon tóc tăng 43% lịch hẹn sau khi từ bỏ Zalo thủ công](https://leo-studio.pages.dev/blog/case-study-salon-dat-lich-online.html)
+
 ## What I'm Working On
 
+- SEO-driven blog targeting Vietnamese SME owners — AI, automation, web app case studies
 - Building an AI-first development workflow for solo & small-team Vietnamese SMBs
-- Education promo video pipeline (FFmpeg + DALL-E + Dreamina Seedance) — see [TESOL-AVSE](https://leo-studio.pages.dev) project
 - Logo & brand design for D2C shops (currently: TIDO MALL)
 
 ## How I work
